@@ -1,1 +1,2 @@
-# Dmitry-Karyakin-Test-Rep
+# Дмитрий Карякин
+# Язык программирования - Python 3.9
